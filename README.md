@@ -28,7 +28,5 @@ The Orsom cookies  dataset was made up for demonstrative purposes of my Excel sk
 Given that the datasets were auto generated using the 'rand between' Excel command, there was no need for data cleaning for missing values, wrong data formats. However, columns were formatted as appropriate and datasets modified as a table to suit pivot purposes.
 
 ## Data Visualization
-
-![Orsom cookies]()
-
+![Orsom Cookies_page-0001](https://github.com/yemilad/Orsom-cookies-/assets/165817613/36722ea3-d709-434f-8d35-8e613aa30a83)
 
