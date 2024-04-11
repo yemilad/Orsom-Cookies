@@ -1,4 +1,4 @@
-# Orsom-cookies-
+# Orsom-cookies
 
 ## Introduction
 
@@ -22,4 +22,11 @@ MS-Excel concept application:
 
 The Orsom cookies  dataset was made up for demonstrative purposes of my Excel skills. It is meant to give an insight to Orsom cookie management for strategic decisions sales, profit earned, and how to chart a way forward  for improved performance.
 - The data comprises of 1,226 rows and 7 columns.
+
+## Data Generation/Transformation
+
+Given that the datasets were auto generated using the 'rand between' Excel command, there was no need for data cleaning for missing values, wrong data formats. However, columns were formatted as appropriate and datasets modified as a table to suit pivot purposes.
+
+## Data Visualization
+
 
