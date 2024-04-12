@@ -29,4 +29,31 @@ Given that the datasets were auto generated using the 'rand between' Excel comma
 
 ## Data Visualization
 ![Orsom Cookies_page-0001](https://github.com/yemilad/Orsom-cookies-/assets/165817613/36722ea3-d709-434f-8d35-8e613aa30a83)
+--
+- Sales figures from United Kingdom accounts for the lagrest market contribution at $953K
+- The monthly profit and sales have the same trend, with peaks periods in June.
+- Chocolate chips contributed the highest market performance in all five countries.
+- The product-Fortune cookies, needs improved performance in all market regions
+- Application of the filters enables management to drill down to each specific nation, product and year.
+
+
+## Conclusion & Recommendations
+
+Based on the provided KPI performance for Orsom Cookies Inc., here are some recommendations:
+
+1. **Focus on the UK Market:** Given that the United Kingdom contributes the largest market share, allocate more resources and 
+  marketing efforts to capitalize on this lucrative market segment.
+
+2. **Optimize Monthly Trends:** Since both monthly profit and sales follow similar trends with peak periods in June, 
+  strategize to enhance marketing campaigns or introduce seasonal promotions during these peak months to further boost sales 
+  and profitability.
+
+3. **Leverage Chocolate Chips' Success:** Given that chocolate chips are performing exceptionally well across all regions, 
+  consider expanding the product line or marketing strategies related to chocolate chip cookies to sustain and potentially 
+  increase market share.
+
+4. **Enhance Fortune Cookies Performance:** Identify and address the factors contributing to the underperformance of Fortune 
+  cookies in all market regions. This could include product improvements, targeted marketing campaigns, or exploring new 
+  market segments for Fortune cookies.
+
 
