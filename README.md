@@ -2,13 +2,13 @@
 
 ## Introduction
 
-The data is a dummy for year 2019 & 2020 for a fictional cookies company, named Orsom. I have opted for this data to display my skills in data cleaning, analysis and visualization.
+The data is made up for year 2019 & 2020 and it is for a  fictional cookies company, named Orsom. I have generated  this dataset to display my skills in data cleaning, analysis and visualization.
 
 **_Disclaimer_**: The datasets used are fabricated and do not depict any real company, institution, or country. They are solely for demonstration purposes to showcase my capabilities to utilize MS-Excel in building visualization dashboard.
 
 MS-Excel concept application:
 - Pivot Tables: From the datasets, three diffrent pivot tables were generated and graphs plotted accordingly
-- Filters: Year, country and products filters were integrated with visual graphs to reflect desired result upon a click on any filter component.
+- Filters: Year, country and products filters were integrated with visual graphs to reflect desired result upon drilling down to specifics on any filter component.
 
 ## Problem Statements
 
